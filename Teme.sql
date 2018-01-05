@@ -66,16 +66,16 @@ INSERT INTO users (username, parola, varsta, orasul, blocat)
 VALUES ('Ionel', 'Alg0ritmic', '25', 'Cluj', '0');
 
 INSERT INTO users (username, parola, varsta, orasul, blocat)
-VALUES ('Ticris', 'PreQuel', '43', 'Toronto', '0');
+VALUES ('Ticris', 'PreQuel', '43', 'Turda', '0');
 
 INSERT INTO users (username, parola, varsta, orasul, blocat)
-VALUES ('Tyson', 'PunchH@rd', '38', 'New York', '1');
+VALUES ('Tyson', 'PunchH@rd', '38', 'Dej', '1');
 
 INSERT INTO users (username, parola, varsta, orasul, blocat)
 VALUES ('Trump', 'R3t@rd', '71', 'Washington DC', '1');
 
 INSERT INTO users (username, parola, varsta, orasul, blocat)
-VALUES ('Shrek', 'Gr33nF@t', '26', 'Magic Woods', '0');
+VALUES ('Donald', 'Gr33nF@t', '26', 'Dej', '0');
 
 INSERT INTO users (username, parola, varsta, orasul, blocat)
 VALUES ('IronMan', 'Zb0ar@', '15', 'Cluj', '0'); 
